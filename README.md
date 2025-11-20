@@ -16,7 +16,7 @@ Dotenv
 
 ESTRUTURA DO PROJETO
 
-projeto-clima/
+TESTE-PRATICO-GUPY/
 │
 ├─ src/
 │ ├─ server.js - Servidor Express
@@ -33,8 +33,6 @@ CONFIGURAÇÃO DO AMBIENTE
 Clonar o repositório:
 
 git clone https://github.com/seu-usuario/projeto-clima.git
-
-cd projeto-clima
 
 Criar arquivo .env a partir de .env.example e preencher com suas próprias informações:
 
