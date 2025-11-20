@@ -36,6 +36,10 @@ git clone https://github.com/Wheel23/Teste-Pratico-Gupy.git
 
 cd src 
 
+Instalar Dependencias:
+
+npm install express axios pg dotenv
+
 Criar arquivo .env a partir de .env.example e preencher com suas próprias informações:
 
 DB_USER=<usuario_postgres>
